@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm G Naveen Kumar</h1>
-<h3 align="center">I am a aspiring Machine Learning Engineer.</h3>
+<h1 align="center">Hi, I'm Naveen Kumar Gindi</h1>
+<h3 align="center">I am a aspiring Machine Learning Engineer, AI Engineer.</h3>
 
-- 🔭 I’m a BTech Graduate from **IIIT, RK Valley, RGUKT, Andhra, 2019-23 Pradesh**
+- 🔭 I’m a BTech Graduate from **IIIT, RK Valley, RGUKT, Andhra Pradesh, 2019-23**
 
-- 🌱 I’m currently learning **Deep Learning, TensorFlow**
+- 🌱 I am doing Bachelors of Science degree **in Data Science and Applications from IIT Madras, 2020-24**
 
-- 👯 I am doing Bachelors of Science degree **in Data Science and Application, 2021-24s from IIT Madras**
+- 👯 I’m currently learning **Deep Learning, TensorFlow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naveenkumargindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveenkumargindi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naveen-kumar-gindi-147305213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-kumar-gindi-147305213" height="30" width="40" /></a>
 <a href="https://kaggle.com/gindinaveenkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gindinaveenkumar" height="30" width="40" /></a>
 </p>
 
